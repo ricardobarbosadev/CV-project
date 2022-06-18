@@ -1,0 +1,38 @@
+.card{
+    margin-bottom: 20px;
+}
+body{
+    background-color: rgb(24, 26, 24);
+}
+
+.card-content{
+    background-color: rgba(0, 0, 0, 0.555);
+    color: rgb(7, 61, 3);
+}
+
+.card-header{
+    background-color: rgba(0, 0, 0, 0.733);
+    color: rgb(233, 241, 234);
+}
+
+.input {
+    background-color: rgba(1, 20, 20, 0.459);
+}
+
+.textarea{
+    background-color:  rgba(209, 226, 226, 0.459);
+}
+
+placeholder{
+    font: rgb(252, 248, 248);
+}
+
+.card-header-title{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+  
